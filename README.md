@@ -1,3 +1,2 @@
-# Client
-release
-fighting! To go better
+# 互联网刷题
+记录下相关知识点，以便回顾。
